@@ -3,7 +3,7 @@ A meme generator created for the BBD Build Challenge 2021 and for my module in m
 
 # Questions:
 
-# What niche community/societal problem does this cross-platform application solve?
+## What niche community/societal problem does this cross-platform application solve?
 This meme generator was created to help people who casually enjoy memes to get more involved.  It has different meme templates to choose from with the ability to insert whatever text the user wishers either on the top, bottom, or both of the meme picture. You can easily create a custom meme with the ability to either use your devices camera and take a picture in real time or choose a photo from your gallery to use instead. These features make it easier for users to be more involved with the community whilst creating content that has a sense of uniqueness to them. 
 
 ## What distinct screens are used?
