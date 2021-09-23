@@ -1,4 +1,4 @@
-# MemeGen4BBD
+# Meme Generator for BBD
 A meme generator created for the BBD Build Challenge 2021 and for my module in my final year of university. 
 
 # Questions:
